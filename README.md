@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/tcblaize"><img src="<img src="https://github.com/tcblaize/tcblaize/blob/master/devcard.svg"" width="400" alt="Tc Blaize's Dev Card"/></a>
+<a href="https://app.daily.dev/tcblaize"><img src="<img src="https://github.com/tcblaize/tcblaize/blob/master/devcard.svg" width="400" alt="Tc Blaize's Dev Card"/></a>
 
 <!--
 **tcblaize/tcblaize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
